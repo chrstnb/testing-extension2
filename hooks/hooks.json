@@ -1,0 +1,14 @@
+{
+  "hooks": {
+    "BeforeModel": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "node ${extensionPath}/scripts/before-model.js"
+          }
+        ]
+      }
+    ]
+  }
+}
