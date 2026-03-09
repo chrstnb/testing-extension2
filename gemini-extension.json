@@ -1,6 +1,7 @@
 {
   "name": "mcp-server-example",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "migratedTo": "https://github.com/chrstnb/testing-extension2",
   "mcpServers": {
     "nodeServer": {
       "command": "node",
