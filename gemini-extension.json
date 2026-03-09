@@ -1,5 +1,5 @@
 {
-  "name": "mcp-server-example",
+  "name": "testing-extension-example",
   "version": "1.0.3",
   "migratedTo": "https://github.com/chrstnb/testing-extension2",
   "mcpServers": {
